@@ -1,0 +1,12 @@
+{
+  "name": "reepl-write-blog",
+  "version": "1.0.0",
+  "description": "Write SEO-optimized blog posts for the Reepl blog (Framer CMS). Produces formatted HTML content compatible with Framer CMS rich text fields.",
+  "skills": [
+    {
+      "name": "write-blog",
+      "path": "skills/write-blog/SKILL.md",
+      "description": "Write SEO-optimized, human-sounding blog posts for the Reepl blog (reepl.io/blog)"
+    }
+  ]
+}
