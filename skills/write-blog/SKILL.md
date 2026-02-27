@@ -18,6 +18,11 @@ that fills a page.
 **Core principle:** Write the article you'd want to read yourself. If a section bores you,
 it will bore the reader. Cut it or make it useful.
 
+**BLUF (Bottom Line Up Front):** Every section opens with its key takeaway. The first sentence
+of each H2 section states the conclusion or main point -- not the setup. Supporting detail,
+evidence, and reasoning follow. Apply the first-sentence test: read only the first sentence of
+every section. If you can't understand the article, BLUF is missing.
+
 ## Before Writing
 
 1. Identify the target keyword and search intent. Ask the user if not provided.
@@ -92,6 +97,19 @@ Rules:
 > will walk you through everything you need to know about commenting effectively.
 
 ### 3. Body Content
+
+**BLUF rule:** The first sentence of every H2 section states the key takeaway or conclusion.
+Do not build up to the point -- lead with it. Evidence, steps, and context follow.
+
+**BLUF examples:**
+
+Good (takeaway first):
+> **Ahrefs has the most accurate keyword data** because it crawls the web more frequently than
+> any competitor. In our tests across 500 keywords, freshness beat Semrush by 23%...
+
+Bad (buried lead):
+> Keyword research tools have been around for years. Many options exist. Ahrefs, Semrush, and
+> Moz all claim accuracy. After extensive testing, we found Ahrefs to be the most accurate...
 
 Structure depends on post type:
 
@@ -230,6 +248,7 @@ Before presenting a post to the user, verify every item:
 - [ ] Title includes target keyword and follows the format for its post type
 - [ ] Introduction uses PAS formula and is under 100 words
 - [ ] No "In today's digital age" or similar cliche openings
+- [ ] BLUF test: read only the first sentence of every H2 section -- the article should be understandable from those sentences alone
 - [ ] Every section adds unique value -- no filler
 - [ ] Paragraphs are 1-3 sentences max
 - [ ] Bold is used for key terms and tool names
