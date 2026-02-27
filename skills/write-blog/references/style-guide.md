@@ -9,13 +9,52 @@ content-led SaaS companies.
 1. Pick a proven topic with search demand
 2. Match search intent by analyzing what currently ranks
 3. Open with a tight PAS intro (2-3 paragraphs max)
-4. Structure with numbered, descriptive H2s that form a standalone outline
-5. Write in short, conversational paragraphs (1-3 sentences)
-6. Back every claim with data, examples, or clear reasoning
-7. Use real examples with specifics (actual tools, actual numbers, actual scenarios)
-8. Integrate the product naturally as part of the solution, not as a pitch
-9. Break up text aggressively with bullets, bold, images, callouts, tables, and sub-headings
-10. End briefly -- no bloated conclusions
+4. **Open every section body with BLUF -- state the key takeaway first, then support it**
+5. Structure with numbered, descriptive H2s that form a standalone outline
+6. Write in short, conversational paragraphs (1-3 sentences)
+7. Back every claim with data, examples, or clear reasoning
+8. Use real examples with specifics (actual tools, actual numbers, actual scenarios)
+9. Integrate the product naturally as part of the solution, not as a pitch
+10. Break up text aggressively with bullets, bold, images, callouts, tables, and sub-headings
+11. End briefly -- no bloated conclusions
+
+## BLUF: Bottom Line Up Front
+
+Every H2 section body starts with the conclusion -- not the setup.
+
+**Structure:**
+1. First sentence: the takeaway (what the reader should know, do, or conclude)
+2. Following sentences: the reasoning, evidence, examples, or steps
+
+**First-sentence test:** Read only the first sentence of every section. If you can't understand
+the article from those sentences alone, BLUF is missing.
+
+**Why it works for humans:** Nielsen Norman Group's eye-tracking research shows people read in
+an F-pattern -- heavy focus at the top, sharp drop in the middle. If the takeaway is buried in
+paragraph 3, most readers won't see it.
+
+**Why it works for LLMs:** Models show a U-shaped attention bias -- they overweight the
+beginning of a text. Putting the answer first makes content easier to retrieve, embed, and cite.
+
+### BLUF Examples
+
+**Good (takeaway first):**
+> Ahrefs has the most accurate keyword data because it crawls the web more frequently than any
+> competitor. In our tests across 500 keywords, it outperformed Semrush by 23% on data
+> freshness...
+
+**Bad (buried lead):**
+> Keyword research tools have been around since the early days of SEO. Many tools claim to have
+> the most accurate data. Ahrefs, Semrush, and Moz are the most popular. After testing
+> extensively, we found that Ahrefs is the best option...
+
+**Good (how-to section):**
+> The fastest way to find low-competition keywords is to filter by Keyword Difficulty below 20
+> and search volume above 500. Here's how to do it in Ahrefs...
+
+**Bad (how-to section):**
+> Keyword difficulty is a metric that tells you how hard it is to rank. There are many factors
+> involved. Search volume also matters. To balance these, you'll want to...
 
 ## Sentence Patterns
 
